@@ -61,7 +61,7 @@ h1, h2 {
     list-style: none;
 }
 
-section p {
+section p, .education {
     width: 50%;
     margin: 0 auto;
 }
