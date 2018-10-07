@@ -41,23 +41,27 @@ h1, h2 {
 
 .image-box {
     width: 50%;
-    text-align: center;
+    text-align: right;
     float: left;
 
 }
 
 .image {
-    height: 400px;
+    height: 270px;
     width: auto;
 }
 
 .info-box {
     width: calc(50% - 100px);
+    padding-left: 100px;
     display: inline-block;
 }
 
 .information {
-    text-align: center;
     list-style: none;
 }
 
+section p {
+    width: 50%;
+    margin: 0 auto;
+}
